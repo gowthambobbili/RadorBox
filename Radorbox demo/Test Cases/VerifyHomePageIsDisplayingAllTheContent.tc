@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyHomePageIsDisplayingAllTheContent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea0f3a89-a8ce-43ed-9061-0d67d3308be1</testCaseGuid>
+</TestCaseEntity>

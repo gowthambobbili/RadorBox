@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>History</name>
+   <tag></tag>
+   <elementGuidId>e43c1fb3-ffd6-428b-b2a2-5c1a8ba6fb01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//span[text()='History']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//span[text()='History']</value>
+      <webElementGuid>4c199e7e-f87e-44ac-9365-e966ee0f1552</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

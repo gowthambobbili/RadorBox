@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Store</name>
+   <tag></tag>
+   <elementGuidId>6eb4063f-1a94-4b72-abae-221bc4cc3886</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//span[text()='Store']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//span[text()='Store']</value>
+      <webElementGuid>75559e00-439f-457c-862d-19f46bb09a0f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

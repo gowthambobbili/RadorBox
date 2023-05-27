@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Statistics</name>
+   <tag></tag>
+   <elementGuidId>94f4d004-96f9-46e0-a672-ea84a1a21a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//span[text()='Statistics']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//span[text()='Statistics']</value>
+      <webElementGuid>ed942575-7008-4551-b63f-ee680ad98cc9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

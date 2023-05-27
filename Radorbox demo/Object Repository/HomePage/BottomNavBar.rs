@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BottomNavBar</name>
+   <tag></tag>
+   <elementGuidId>427d6391-a46c-4aec-96cd-0f1edf04d0d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[id=&quot;bottombar-container&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[id=&quot;bottombar-container&quot;]</value>
+      <webElementGuid>082ef835-4dab-42ee-a2f0-1171cf74c7ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

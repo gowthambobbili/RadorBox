@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Coverage</name>
+   <tag></tag>
+   <elementGuidId>82a2bfc4-ef06-4f6d-a2a1-7d504eccfe62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//span[text()='Coverage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//span[text()='Coverage']</value>
+      <webElementGuid>dc422239-d954-4fad-b857-2c7889cf86cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginToApplicationAndVerifyWhetherApplicationISLoggedIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30a12221-f791-48cd-b250-3777f2898656</testCaseGuid>
+</TestCaseEntity>

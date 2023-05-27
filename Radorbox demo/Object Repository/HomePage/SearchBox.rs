@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchBox</name>
+   <tag></tag>
+   <elementGuidId>0a57a00b-73d7-42e2-b6f2-c363631d46b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[id=&quot;search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[id=&quot;search&quot;]</value>
+      <webElementGuid>3784b5cc-283f-41e1-8e6e-e151b40d2c21</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
